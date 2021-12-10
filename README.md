@@ -7,24 +7,22 @@ Golang rest api boilerplate for our internals and clients projects
 ## Features
 
 1. Project Structure
+   inspired by [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
-inspired by [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+2. Rounting
+   [gorilla/mux](https://github.com/gorilla/mux)
 
-2. Database
+3. Database
+   [rocketlaunchr/dbq](https://github.com/rocketlaunchr/dbq)
 
-[rocketlaunchr/dbq](https://github.com/rocketlaunchr/dbq)
+4. JWT
+   [golang-jwt/jwt](https://github.com/golang-jwt/jwt)
 
-3. JWT
+5. Logging
+   [sirupsen/logrus](https://github.com/sirupsen/logrus)
 
-[golang-jwt/jwt](https://github.com/golang-jwt/jwt)
-
-4. Loggin
-
-[sirupsen/logrus](https://github.com/sirupsen/logrus)
-
-5. ULID
-
-[oklog/ulid](https://github.com/oklog/ulid)
+6. ULID
+   [oklog/ulid](https://github.com/oklog/ulid)
 
 ## Upcoming topics
 
